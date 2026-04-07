@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="MarbleRun_symbol_logo.jpg" alt="MarbleRun banner" width="700">
+  <img src="assets/MarbleRun_symbol_logo.jpg" alt="MarbleRun banner" width="700">
 </p>
 
 # llmauto -- LLM Automation Framework (MarbleRun)
+
+**🇩🇪 [Deutsche Version](README_de.md)**
 
 *Automation & workflow system by [ellmos-ai](https://github.com/ellmos-ai).*
 
